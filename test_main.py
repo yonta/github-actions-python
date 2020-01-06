@@ -10,4 +10,4 @@ def test_add():
 def test_sub():
     a = 1
     b = 2
-    assert 1 == main.sub(a, b)
+    assert 1 == main.sub(b, a)
