@@ -5,6 +5,10 @@ def add(a, b):
     return a + b
 
 
+def sub(a, b):
+    return b - 1
+
+
 def main():
     print("Run main")
 
