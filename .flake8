@@ -1,0 +1,4 @@
+[flake8]
+count = yes
+statistics = yes
+show-source = yes
