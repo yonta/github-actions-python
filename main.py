@@ -1,8 +1,13 @@
-import os
+import pandas
 
 
 def add(a, b):
     return a + b
+
+
+def getPanda():
+    df = pandas.DataFrame(["panda"])
+    return df
 
 
 def main():
